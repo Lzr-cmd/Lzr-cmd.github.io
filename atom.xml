@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lzr-cmd.github.io</id>
     <title>Win10Explorer</title>
-    <updated>2020-03-17T04:39:03.394Z</updated>
+    <updated>2020-03-17T04:48:46.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lzr-cmd.github.io"/>
     <link rel="self" href="https://lzr-cmd.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://lzr-cmd.github.io/images/avatar.png</logo>
     <icon>https://lzr-cmd.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Win10Explorer</rights>
+    <entry>
+        <title type="html"><![CDATA[粉丝群]]></title>
+        <id>https://lzr-cmd.github.io/post/fen-si-qun/</id>
+        <link href="https://lzr-cmd.github.io/post/fen-si-qun/">
+        </link>
+        <updated>2020-03-17T04:42:58.000Z</updated>
+        <content type="html"><![CDATA[<p>QQ 群号：1055473747<br>
+粉丝群密码是：Win10Explorer2333</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三个病毒样本下载地址]]></title>
         <id>https://lzr-cmd.github.io/post/三个病毒下载地址/</id>
