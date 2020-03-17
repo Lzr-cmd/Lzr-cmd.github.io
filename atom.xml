@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lzr-cmd.github.io</id>
     <title>Win10Explorer</title>
-    <updated>2020-03-17T08:30:55.880Z</updated>
+    <updated>2020-03-17T12:29:40.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lzr-cmd.github.io"/>
     <link rel="self" href="https://lzr-cmd.github.io/atom.xml"/>
@@ -18,17 +18,6 @@
         <updated>2020-03-17T04:42:58.000Z</updated>
         <content type="html"><![CDATA[<p>QQ 群号：1055473747<br>
 粉丝群密码是：Win10Explorer2333</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三个病毒样本下载地址]]></title>
-        <id>https://lzr-cmd.github.io/post/三个病毒下载地址/</id>
-        <link href="https://lzr-cmd.github.io/post/三个病毒下载地址/">
-        </link>
-        <updated>2020-03-17T04:34:20.000Z</updated>
-        <content type="html"><![CDATA[<p>链接：https://pan.baidu.com/s/1j_eLsUq1pGJX3Js9Wif5Wg<br>
-提取码：wxqp<br>
-病毒样本有 Wannacry，彩虹猫，芦苇病毒</p>
 ]]></content>
     </entry>
 </feed>
