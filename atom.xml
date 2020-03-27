@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lzr-cmd.github.io</id>
     <title>Win10Explorer</title>
-    <updated>2020-03-27T04:06:25.872Z</updated>
+    <updated>2020-03-27T07:39:49.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lzr-cmd.github.io"/>
     <link rel="self" href="https://lzr-cmd.github.io/atom.xml"/>
@@ -12,4 +12,15 @@ Welcome to Win10Explorer&apos;s blog</subtitle>
     <logo>https://lzr-cmd.github.io/images/avatar.png</logo>
     <icon>https://lzr-cmd.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Win10Explorer</rights>
+    <entry>
+        <title type="html"><![CDATA[我的QQ号以及粉丝群]]></title>
+        <id>https://lzr-cmd.github.io/post/wo-de-qq-hao-yi-ji-fen-si-qun/</id>
+        <link href="https://lzr-cmd.github.io/post/wo-de-qq-hao-yi-ji-fen-si-qun/">
+        </link>
+        <updated>2020-03-27T07:37:48.000Z</updated>
+        <content type="html"><![CDATA[<p>QQ号：1450422389<br>
+粉丝群：1055473747<br>
+看了我的视频记得要一键三连哟  不要下次一定</p>
+]]></content>
+    </entry>
 </feed>
