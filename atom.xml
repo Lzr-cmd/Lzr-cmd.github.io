@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lzr-cmd.github.io</id>
-    <title>Win10Explorer</title>
-    <updated>2020-03-27T07:40:52.588Z</updated>
+    <title>WindowsExplorer</title>
+    <updated>2020-03-29T04:36:45.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lzr-cmd.github.io"/>
     <link rel="self" href="https://lzr-cmd.github.io/atom.xml"/>
-    <subtitle>欢迎来到 Win10Explorer 的博客
+    <subtitle>欢迎来到 WindowsExplorer 的博客
 
 Welcome to Win10Explorer&apos;s blog</subtitle>
     <logo>https://lzr-cmd.github.io/images/avatar.png</logo>
     <icon>https://lzr-cmd.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Win10Explorer</rights>
+    <rights>All rights reserved 2020, WindowsExplorer</rights>
     <entry>
         <title type="html"><![CDATA[我的QQ号以及粉丝群]]></title>
         <id>https://lzr-cmd.github.io/post/wo-de-qq-hao-yi-ji-fen-si-qun/</id>
