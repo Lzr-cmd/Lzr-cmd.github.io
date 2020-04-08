@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lzr-cmd.github.io</id>
     <title>WindowsExplorer</title>
-    <updated>2020-04-08T08:36:49.592Z</updated>
+    <updated>2020-04-08T08:40:43.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lzr-cmd.github.io"/>
     <link rel="self" href="https://lzr-cmd.github.io/atom.xml"/>
@@ -14,8 +14,8 @@ Welcome to WindowsExplorer&apos;s blog</subtitle>
     <rights>All rights reserved 2020, WindowsExplorer</rights>
     <entry>
         <title type="html"><![CDATA[把注册表编辑器删掉会怎么样？]]></title>
-        <id>https://lzr-cmd.github.io/post/ba-zhu-ce-biao-bian-ji-qi-shan-diao-hui-zen-me-yang/</id>
-        <link href="https://lzr-cmd.github.io/post/ba-zhu-ce-biao-bian-ji-qi-shan-diao-hui-zen-me-yang/">
+        <id>https://lzr-cmd.github.io/post/4/</id>
+        <link href="https://lzr-cmd.github.io/post/4/">
         </link>
         <updated>2020-04-07T04:13:58.000Z</updated>
         <content type="html"><![CDATA[<p>bilibili：https://www.bilibili.com/video/BV1A64y1u75y/<br>
@@ -24,8 +24,8 @@ Youtube：https://youtu.be/0F872hQGm9o</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[把 TSK 任务管理器 删掉会怎么样？]]></title>
-        <id>https://lzr-cmd.github.io/post/ba-tsk-ren-wu-guan-li-qi-shan-diao-hui-zen-me-yang/</id>
-        <link href="https://lzr-cmd.github.io/post/ba-tsk-ren-wu-guan-li-qi-shan-diao-hui-zen-me-yang/">
+        <id>https://lzr-cmd.github.io/post/3/</id>
+        <link href="https://lzr-cmd.github.io/post/3/">
         </link>
         <updated>2020-04-07T04:08:27.000Z</updated>
         <content type="html"><![CDATA[<p>bilibili：https://www.bilibili.com/video/BV1nC4y1s7SK/<br>
@@ -34,8 +34,8 @@ Youtube：https://youtu.be/1GWE8JhILB0</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[把 Windows XP 的 Explorer 删掉会怎么样？]]></title>
-        <id>https://lzr-cmd.github.io/post/ba-windows-xp-de-explorer-shan-diao-hui-zen-me-yang/</id>
-        <link href="https://lzr-cmd.github.io/post/ba-windows-xp-de-explorer-shan-diao-hui-zen-me-yang/">
+        <id>https://lzr-cmd.github.io/post/2/</id>
+        <link href="https://lzr-cmd.github.io/post/2/">
         </link>
         <updated>2020-04-07T03:54:55.000Z</updated>
         <content type="html"><![CDATA[<p>bilibili：https://www.bilibili.com/video/BV1Q7411C7bQ/<br>
@@ -44,8 +44,8 @@ Youtube：https://youtu.be/az1hyHGZd7I</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的粉丝群以及联系方式]]></title>
-        <id>https://lzr-cmd.github.io/post/wo-de-qq-hao-yi-ji-fen-si-qun/</id>
-        <link href="https://lzr-cmd.github.io/post/wo-de-qq-hao-yi-ji-fen-si-qun/">
+        <id>https://lzr-cmd.github.io/post/1/</id>
+        <link href="https://lzr-cmd.github.io/post/1/">
         </link>
         <updated>2020-03-27T07:37:48.000Z</updated>
         <content type="html"><![CDATA[<p>QQ号：2481521504<br>
