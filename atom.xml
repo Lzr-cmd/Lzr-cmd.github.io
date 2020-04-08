@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lzr-cmd.github.io</id>
     <title>WindowsExplorer</title>
-    <updated>2020-04-08T03:57:16.505Z</updated>
+    <updated>2020-04-08T08:36:18.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lzr-cmd.github.io"/>
     <link rel="self" href="https://lzr-cmd.github.io/atom.xml"/>
@@ -43,13 +43,14 @@ Youtube：https://youtu.be/az1hyHGZd7I</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我的QQ号以及粉丝群]]></title>
+        <title type="html"><![CDATA[我的粉丝群以及联系方式]]></title>
         <id>https://lzr-cmd.github.io/post/wo-de-qq-hao-yi-ji-fen-si-qun/</id>
         <link href="https://lzr-cmd.github.io/post/wo-de-qq-hao-yi-ji-fen-si-qun/">
         </link>
         <updated>2020-03-27T07:37:48.000Z</updated>
         <content type="html"><![CDATA[<p>QQ号：2481521504<br>
 Instagram：https://www.instagram.com/windowsexplorer3/<br>
+Facebook 主页：https://www.facebook.com/WindowsExplorer-108794980786974/<br>
 粉丝群：1055473747<br>
 看了我的视频记得要一键三连哟  不要下次一定</p>
 ]]></content>
