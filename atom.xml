@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lzr-cmd.github.io</id>
     <title>WindowsExplorer</title>
-    <updated>2020-04-10T02:10:24.406Z</updated>
+    <updated>2020-04-13T11:11:25.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lzr-cmd.github.io"/>
     <link rel="self" href="https://lzr-cmd.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://lzr-cmd.github.io/images/avatar.png</logo>
     <icon>https://lzr-cmd.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, WindowsExplorer</rights>
+    <entry>
+        <title type="html"><![CDATA[把用来引导操作系统的文件删掉会怎么样？]]></title>
+        <id>https://lzr-cmd.github.io/post/ba-yong-lai-yin-dao-cao-zuo-xi-tong-de-wen-jian-shan-diao-hui-zen-me-yang/</id>
+        <link href="https://lzr-cmd.github.io/post/ba-yong-lai-yin-dao-cao-zuo-xi-tong-de-wen-jian-shan-diao-hui-zen-me-yang/">
+        </link>
+        <updated>2020-04-13T11:10:19.000Z</updated>
+        <content type="html"><![CDATA[<p>bilibili：https://www.bilibili.com/video/BV19i4y1b7h7/<br>
+Youtube：https://youtu.be/ah3YGgvzB3o</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[把注册表编辑器删掉会怎么样？]]></title>
         <id>https://lzr-cmd.github.io/post/4/</id>
